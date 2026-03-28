@@ -1,6 +1,8 @@
 From Pose to Prediction: Classifying Martial Arts Techniques Using
 Temporal Deep Learning and Biomechanical Joint Features
 
+Author: Areej Alsini
+
 Tabari is a pose-based deep learning framework for the automatic classification of martial arts techniques from video sequences. The framework extracts skeletal pose data using MediaPipe and classifies techniques using three temporal deep learning architectures: Bidirectional Long Short-Term Memory (Bi-LSTM), Temporal Convolutional Network (TCN), and Transformer Encoder.
 
 The dataset provided in this repository contains pose annotations for five martial arts techniques spanning Karate and Taekwondo, and is intended to support reproducibility of the results reported in the associated paper.
